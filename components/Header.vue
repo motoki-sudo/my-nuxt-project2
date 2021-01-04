@@ -22,34 +22,34 @@
           <div class="main-nav__main-navigation">
             <ul class="one-page-scroll-menu main-nav__navigation-box">
               <li class="current scrollToLink">
-                <a href="#banner">Home</a>
+                <a href="#banner">ホーム</a>
               </li>
               <li class="scrollToLink">
-                <a href="#features">Features</a>
+                <a href="#features">特徴</a>
               </li>
               <li class="scrollToLink">
-                <a href="#pricing">Pricing</a>
+                <a href="#pricing">価格</a>
               </li>
               <li class="scrollToLink">
-                <a href="#app-shots">App Screens</a>
+                <a href="#app-shots">アプリ</a>
               </li>
               <li class="scrollToLink">
-                <a href="#testimonials">Testimonials</a>
+                <a href="#testimonials">レビュー</a>
               </li>
               <li class="dropdown scrollToLink">
-                <a href="#blog">Blog</a>
+                <a href="#blog">ブログ</a>
                 <ul>
-                  <li><nuxt-link to="/blog">Blog Page</nuxt-link></li>
-                  <li><nuxt-link to="/blog-details">Blog Details</nuxt-link></li>
+                  <li><nuxt-link to="/blog">記事一覧</nuxt-link></li>
+                  <li><nuxt-link to="/blog-details">記事ページ</nuxt-link></li>
                 </ul><!-- /.sub-menu -->
               </li>
               <li class="scrollToLink">
-                <a href="#contact">Contact</a>
+                <a href="#contact">ご連絡先</a>
               </li>
             </ul>
           </div><!-- /.navbar-collapse -->
           <div class="main-nav__right">
-            <a href="#contact" data-target="#contact" class="thm-btn header__btn scroll-to-target">Start Trial</a><!-- /.thm-btn header__btn -->
+            <a href="#contact" data-target="#contact" class="thm-btn header__btn scroll-to-target">トライアルする</a><!-- /.thm-btn header__btn -->
           </div><!-- /.main-nav__right -->
         </div>
         <!-- /.container -->
